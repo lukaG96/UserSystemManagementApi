@@ -1,0 +1,12 @@
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\bin\Debug\net6.0\UserManagementSystemAPI.Enums.deps.json
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\bin\Debug\net6.0\UserManagementSystemAPI.Enums.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\bin\Debug\net6.0\ref\UserManagementSystemAPI.Enums.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\bin\Debug\net6.0\UserManagementSystemAPI.Enums.pdb
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\UserManagementSystemAPI.Enums.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\UserManagementSystemAPI.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\UserManagementSystemAPI.Enums.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\UserManagementSystemAPI.Enums.AssemblyInfo.cs
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\UserManagementSystemAPI.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\UserManagementSystemAPI.Enums.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\ref\UserManagementSystemAPI.Enums.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Enums\obj\Debug\net6.0\UserManagementSystemAPI.Enums.pdb

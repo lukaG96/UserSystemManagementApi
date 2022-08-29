@@ -1,0 +1,12 @@
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\bin\Debug\net6.0\UserManagementSystemAPI.DataLayer.deps.json
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\bin\Debug\net6.0\UserManagementSystemAPI.DataLayer.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\bin\Debug\net6.0\ref\UserManagementSystemAPI.DataLayer.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\bin\Debug\net6.0\UserManagementSystemAPI.DataLayer.pdb
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\UserManagementSystemAPI.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\UserManagementSystemAPI.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\UserManagementSystemAPI.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\UserManagementSystemAPI.DataLayer.AssemblyInfo.cs
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\UserManagementSystemAPI.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\UserManagementSystemAPI.DataLayer.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\ref\UserManagementSystemAPI.DataLayer.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.DataLayer\obj\Debug\net6.0\UserManagementSystemAPI.DataLayer.pdb

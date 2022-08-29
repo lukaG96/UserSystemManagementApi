@@ -1,0 +1,12 @@
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\bin\Debug\net6.0\UserManagementSystemAPI.Shared.deps.json
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\bin\Debug\net6.0\UserManagementSystemAPI.Shared.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\bin\Debug\net6.0\ref\UserManagementSystemAPI.Shared.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\bin\Debug\net6.0\UserManagementSystemAPI.Shared.pdb
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\UserManagementSystemAPI.Shared.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\UserManagementSystemAPI.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\UserManagementSystemAPI.Shared.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\UserManagementSystemAPI.Shared.AssemblyInfo.cs
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\UserManagementSystemAPI.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\UserManagementSystemAPI.Shared.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\ref\UserManagementSystemAPI.Shared.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Shared\obj\Debug\net6.0\UserManagementSystemAPI.Shared.pdb

@@ -1,0 +1,12 @@
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\bin\Debug\net6.0\UserManagementSystemAPI.Exceptions.deps.json
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\bin\Debug\net6.0\UserManagementSystemAPI.Exceptions.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\bin\Debug\net6.0\ref\UserManagementSystemAPI.Exceptions.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\bin\Debug\net6.0\UserManagementSystemAPI.Exceptions.pdb
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\UserManagementSystemAPI.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\UserManagementSystemAPI.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\UserManagementSystemAPI.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\UserManagementSystemAPI.Exceptions.AssemblyInfo.cs
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\UserManagementSystemAPI.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\UserManagementSystemAPI.Exceptions.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\ref\UserManagementSystemAPI.Exceptions.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Exceptions\obj\Debug\net6.0\UserManagementSystemAPI.Exceptions.pdb

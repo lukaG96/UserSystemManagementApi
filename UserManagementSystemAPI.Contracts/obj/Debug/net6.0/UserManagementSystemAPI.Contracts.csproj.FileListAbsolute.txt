@@ -1,0 +1,17 @@
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\UserManagementSystemAPI.Contracts.deps.json
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\UserManagementSystemAPI.Contracts.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\ref\UserManagementSystemAPI.Contracts.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\UserManagementSystemAPI.Contracts.pdb
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\UserManagementSystemAPI.DataLayer.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\UserManagementSystemAPI.Shared.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\UserManagementSystemAPI.DataLayer.pdb
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\bin\Debug\net6.0\UserManagementSystemAPI.Shared.pdb
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.AssemblyInfo.cs
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.csproj.CopyComplete
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\ref\UserManagementSystemAPI.Contracts.dll
+C:\Users\Luka\source\repos\tests\UserManagementSystemAPI\UserManagementSystemAPI.Contracts\obj\Debug\net6.0\UserManagementSystemAPI.Contracts.pdb
